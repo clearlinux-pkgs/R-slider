@@ -4,7 +4,7 @@
 #
 Name     : R-slider
 Version  : 0.2.2
-Release  : 15
+Release  : 16
 URL      : https://cran.r-project.org/src/contrib/slider_0.2.2.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/slider_0.2.2.tar.gz
 Summary  : Sliding Window Functions
